@@ -2,21 +2,21 @@
 ZOMENTUM HIRING ASSIGNMENT
 BACK-END STREAM
 # Problem Statement :
-1. You have to design a REST interface for a movie theatre ticket booking system. It should support the following business cases:
-2. An endpoint to book a ticket using a user’s name, phone number, and timings.
-3. An endpoint to update a ticket timing.
-4. An endpoint to view all the tickets for a particular time.
-5. An endpoint to delete a particular ticket.
-6. An endpoint to view the user’s details based on the ticket id.
-7. Mark a ticket as expired if there is a diff of 8 hours between the ticket timing and current time.
-8.  Note: For a particular timing, a maximum of 20 tickets can be booked.
-9.  You should follow the REST paradigm while building your application.
-10.  You can use any database you like.
-11.  Create a proper readme for your project.
-12.  Plus point if you could delete all the tickets which are expired automatically.
-13.  Plus point if you could write the tests for all the endpoints.
-14.  Please attach a screenshot of your postman while testing your application.
-15.  Please avoid plagiarism. 
+ You have to design a REST interface for a movie theatre ticket booking system. It should support the following business cases:
+1. An endpoint to book a ticket using a user’s name, phone number, and timings.
+2. An endpoint to update a ticket timing.
+3. An endpoint to view all the tickets for a particular time.
+4. An endpoint to delete a particular ticket.
+5. An endpoint to view the user’s details based on the ticket id.
+6. Mark a ticket as expired if there is a diff of 8 hours between the ticket timing and current time.
+7.  Note: For a particular timing, a maximum of 20 tickets can be booked.
+8.  You should follow the REST paradigm while building your application.
+9.  You can use any database you like.
+10.  Create a proper readme for your project.
+11.  Plus point if you could delete all the tickets which are expired automatically.
+12.  Plus point if you could write the tests for all the endpoints.
+13.  Please attach a screenshot of your postman while testing your application.
+14.  Please avoid plagiarism. 
 
 # Getting Started:
     Install Python 3.x
