@@ -9,23 +9,22 @@ BACK-END STREAM
 5. An endpoint to delete a particular ticket.
 6. An endpoint to view the user’s details based on the ticket id.
 7. Mark a ticket as expired if there is a diff of 8 hours between the ticket timing and current time.
-  
-a.  Note: For a particular timing, a maximum of 20 tickets can be booked.
-b.  You should follow the REST paradigm while building your application.
-c.  You can use any database you like.
-d.  Create a proper readme for your project.
-e.  Plus point if you could delete all the tickets which are expired automatically.
-f.  Plus point if you could write the tests for all the endpoints.
-g.  Please attach a screenshot of your postman while testing your application.
-h.  Please avoid plagiarism. 
+8.  Note: For a particular timing, a maximum of 20 tickets can be booked.
+9.  You should follow the REST paradigm while building your application.
+10.  You can use any database you like.
+11.  Create a proper readme for your project.
+12.  Plus point if you could delete all the tickets which are expired automatically.
+13.  Plus point if you could write the tests for all the endpoints.
+14.  Please attach a screenshot of your postman while testing your application.
+15.  Please avoid plagiarism. 
 
 # Getting Started:
-  Install Python 3.x
-  Get pip
-  Download Postman for testing.
-  Install flask and pymongo.
-  After setting up, download the zip file or get it cloned. We are good to go.
-  Open cmd and run the command: python root.py
+    Install Python 3.x
+    Get pip
+    Download Postman for testing.
+    Install flask and pymongo.
+    After setting up, download the zip file or get it cloned. We are good to go.
+    Open cmd and run the command: python root.py
 
 # Routes of the API:'
     http://127.0.0.1:5000/
